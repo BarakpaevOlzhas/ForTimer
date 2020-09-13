@@ -1,0 +1,17 @@
+﻿  just_main.cpp
+C:\Users\User\Desktop\Tanchiki-master\win10.h(24,31): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\User\Desktop\Tanchiki-master\Class.h(204,47): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\User\Desktop\Tanchiki-master\Class.h(798,39): warning C4244: return: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\User\Desktop\Tanchiki-master\Class.h(801,38): warning C4244: return: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\User\Desktop\Tanchiki-master\Class.h(804,40): warning C4244: return: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\User\Desktop\Tanchiki-master\just_main.cpp(14,94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\Tanchiki-master\Class.h(1579): warning C4715: Map::sra: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(350): warning C4715: enemy::getColor: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(766): warning C4715: Player_Tank::getP: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(760): warning C4715: Player_Tank::getColor: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(356): warning C4715: enemy::getP: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(799): warning C4715: Map::getYear: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(805): warning C4715: Map::getMonth: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(802): warning C4715: Map::getDay: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Tanchiki-master\Class.h(1609): warning C4715: Map::sraE: значение возвращается не при всех путях выполнения
+  TestTwo.vcxproj -> C:\Users\User\source\repos\TestTwo\Debug\TestTwo.exe
